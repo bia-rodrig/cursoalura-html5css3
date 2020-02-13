@@ -204,11 +204,11 @@ Home: o titulo do link (que ficará visível para o usuário)
 ```text-decoration: none;```
 
 ## Posições dos elementos
-A posição do elemento, é em relação ao corpo da página. Definindo como relative ou como absolute, o elemento será trazido para "frente" do resto dos elementos.
+A posição do elemento, é em relação ao corpo da página. A elemento será trazido para "frente" do resto dos elementos.
 
-* Posição  estática: é a posição inicial padrão do elemento - canto superior esquerdo e junto ao body.
+* Posição  estática: é a posição inicial padrão do elemento - canto superior esquerdo.
 
-![](imagens/position_static.png)
+![](https://github.com/bia-rodrig/cursoalura-html5css3/blob/master/imagens_readme/position_static.png)
 
 
 * Posição relativa: é a posição inicial a partir da posição estática, mas uma posição "à frente" do resto do body.
@@ -224,12 +224,12 @@ Exemplo:
 O início do elemento, será 10 pixels abaixo e 20 pixels par a direita do ponto inicial padrão dele. 
 
 
-![](imagens/position_relative.png)
+![](https://github.com/bia-rodrig/cursoalura-html5css3/blob/master/imagens_readme/position_relative.png)
 
 
 * Posição absoluta: muda o ponto inicial padrão do elemento, mas na parte da "frente" do resto do body.
 * 
-![](imagens/position_absolute.png)
+![](https://github.com/bia-rodrig/cursoalura-html5css3/blob/master/imagens_readme/position_absolute.png?raw=true)
 
 ## Posicionando o Cabeçalho
 ```css
